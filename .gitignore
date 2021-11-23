@@ -2,3 +2,5 @@
 courses_with_manual_check/
 .DS_Store
 .ipynb_checkpoints
+new_courses/
+old_courses_with_manual_check/
